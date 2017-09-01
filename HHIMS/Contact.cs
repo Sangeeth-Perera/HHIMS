@@ -103,8 +103,8 @@ namespace HHIMS
 
               
             }
-            MainMenue f2 = new MainMenue();
-            f2.Show();
+            //MainMenue f2 = new MainMenue();
+            //f2.Show();
             this.Hide();
  
 
@@ -178,9 +178,9 @@ namespace HHIMS
 
         private void button3_Click(object sender, EventArgs e)
         {
-            this.Hide();
-            Cart c1 = new Cart();
-            c1.Show();
+            //this.Hide();
+            //Cart c1 = new Cart();
+            //c1.Show();
         }
     }
 }
